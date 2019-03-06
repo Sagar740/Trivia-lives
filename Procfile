@@ -1,1 +1,1 @@
-worker : python a life.py
+worker : python Trivia life.py
